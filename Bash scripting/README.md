@@ -9,4 +9,8 @@
 <li>In <b>fibo.sh</b> we print the nth Fibonacci number using recursion
 <br>
 <img width="402" alt="image" src="https://user-images.githubusercontent.com/83173038/202845766-3b290d46-2717-4a32-83d8-005686cccd03.png"></li>
+<li>
+  In <b>power.sh</b> we calculate the power to a number<br>
+  <img width="160" alt="image" src="https://user-images.githubusercontent.com/83173038/202847719-5170a2ad-00dc-487b-bc6d-86edc752d91d.png">
+</li>
 </ul>
