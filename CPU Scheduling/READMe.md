@@ -9,8 +9,10 @@
 
 ### 3. Round Robin
 #### A preemptive CPU scheduling algorithm
+##### We use <math.h> here, so in Linux systems link the math module like the following statement :
+##### gcc rr.c -o rr -lm
 ![image](https://user-images.githubusercontent.com/83173038/202650930-2d09e60a-f009-4a14-8868-2cf3e8e502db.png)
 
 ### 4. Priority Scheduling 
-#### We will be implementing non-preemptive Priorit scheduling here
+#### We will be implementing non-preemptive Priority scheduling here
 ![image](https://user-images.githubusercontent.com/83173038/202651075-29670cb5-077b-4ef8-b533-71e67072342e.png)
